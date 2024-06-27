@@ -1,5 +1,5 @@
 # Python code for CNN_D3_v2 architecture
-# Serdar Erisen, 2024
+# Copyright (c) 2024 Serdar Erişen
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
